@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Sep 13 20:22:16 2022
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : Projeto-CPU-fly
+Top-level Entity Name : Projeto-CPU-fly
+Family : Cyclone IV E
+Total logic elements : 38
+    Total combinational functions : 38
+    Dedicated logic registers : 26
+Total registers : 26
+Total pins : 11
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
